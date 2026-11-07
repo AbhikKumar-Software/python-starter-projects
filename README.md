@@ -1,34 +1,32 @@
 # python-starter-projects
 My portfolio of Python starter scripts, CLI tools, and mini-projects as I build my coding skills.
 
-A collection of command-line applications built to practice core programming concepts and problem-solving in Python.
+## Projects Included
 
-Projects Included
+### Project 1. Hello World (hello.py)
 
-Project 1. Hello World (hello.py)
+- **Description:** A foundational entry script introduced to set up the repository workflow and test initial environment configuration.
 
-Description: A foundational entry script introduced to set up the repository workflow and test initial environment configuration.
+- **Concepts Used:** Basic output handling, print statements, and initial Git workflow setup.
 
-Concepts Used: Basic output handling, print statements, and initial Git workflow setup.
+### Project 2. Bill Splitter (bill_splitter.py)
 
-Project 2. Bill Splitter (bill_splitter.py)
+- **Description:** Calculates total tips and splits the final bill evenly among a group of people.
 
-Description: Calculates total tips and splits the final bill evenly among a group of people.
+- **Concepts Used:** Basic math operators, user input, string formatting, and type casting (float and int).
 
-Concepts Used: Basic math operators, user input, string formatting, and type casting (float and int).
+### Project 3. (Coming Soon)
 
-Project 3. (Coming Soon)
+- **Description:** Coming soon so no description yet.
 
-Description: Coming soon so no description yet.
+- **Concepts Used:** Coming soon so no concepts used yet.
 
-Concepts Used: Coming soon so no concepts used yet.
+## How to Run
+1. Make sure Python 3 is installed on your computer.
 
-How to Run
-Make sure Python 3 is installed on your computer.
+2. Open your terminal or command prompt in this folder.
 
-Open your terminal or command prompt in this folder.
-
-Run the script using the following command:
+3. Run the script using the following command:
 
 Name_of_file.py
 
