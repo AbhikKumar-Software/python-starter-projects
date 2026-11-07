@@ -3,7 +3,7 @@ My portfolio of Python starter scripts, CLI tools, and mini-projects as I build 
 
 A collection of command-line applications built to practice core programming concepts and problem-solving in Python.
 
-Projects Included
+##Projects Included
 
 Project 1. Hello World (hello.py)
 
