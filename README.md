@@ -1,6 +1,6 @@
 # python-starter-projects
 My portfolio of Python starter scripts, CLI tools, and mini-projects as I build my coding skills.
-Python Mini-Projects Portfolio
+
 A collection of command-line applications built to practice core programming concepts and problem-solving in Python.
 
 Projects Included
